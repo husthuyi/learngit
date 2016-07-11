@@ -7,4 +7,6 @@ Creating a new branch is quick and simple.
 Add a new line to test.Bug branch 
 Modified in branch dev 20170711
 Modified on branch feature1 20160711.
+Modified in branch dev 20170711.
+I have finished half of my work.
 Fix bug issue-101.

@@ -24,6 +24,14 @@ I will do some job in branch feature1 20160811
 
 >>>>>>> feature1
 
+<<<<<<< HEAD
 this is a branch work context in 20160811_huyi branch
 FDSHAFLHASDFJASHDFASKJDFJHSDAKF
+=======
+this is a branch work context in 20160811_huyi branchf
+dhfalfhadls
+fadshflkadfh
+fadhlas
+afdhksl
+>>>>>>> 20160812_huyi
 
